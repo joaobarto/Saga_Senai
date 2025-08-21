@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "l1e4GzhzOkUR8C8swvQ1o7O3+3EVoZ2LX1Xhe9bftPQ=",
+  "Source": "SagaSenai",
+  "BasePath": "_content/SagaSenai",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SagaSenai\\wwwroot",
+      "Source": "SagaSenai",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\wwwroot\\",
+      "BasePath": "_content/SagaSenai",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\wwwroot\\css\\style.css",
+      "SourceId": "SagaSenai",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\wwwroot\\",
+      "BasePath": "_content/SagaSenai",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\wwwroot\\index.html",
+      "SourceId": "SagaSenai",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\wwwroot\\",
+      "BasePath": "_content/SagaSenai",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
