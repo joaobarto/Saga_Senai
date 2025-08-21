@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\Alunos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Joao_v\\Saga_Senai\\SagaSenai\\SagaSenai.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\SagaSenai.csproj",
       "projectName": "SagaSenai",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\Joao_v\\Saga_Senai\\SagaSenai\\SagaSenai.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\Joao_v\\Saga_Senai\\SagaSenai\\obj\\",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\SagaSenai.csproj",
+      "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\jV\\Saga_Senai\\SagaSenai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
